@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @le577
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m LEFIKA-XMD
+- 🩸this lite bot can help you to make your wats app work easy
+- 🇻🇦it can handle groups and it
+- can download songs
+- apk
+- Yu tube link URL
 
-<!---
-le577/le577 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+thank you for choosing >lefika/> xmd bot
